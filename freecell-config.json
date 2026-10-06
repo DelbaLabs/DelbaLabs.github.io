@@ -42,11 +42,11 @@
       "felt-teal": 900,
       "felt-graphite": 1100,
       "felt-plum": 1200,
-      "back-stripes": 600,
-      "back-dots": 600,
-      "back-waves": 800,
-      "back-leaf": 800,
-      "back-gold": 1200
+      "face-ivory": 600,
+      "face-pastel": 600,
+      "face-night": 800,
+      "face-royal": 800,
+      "face-neon": 1200
     }
   }
 }
