@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "offers": [],
+  "shop": {
+    "products": [
+      {
+        "id": "starter",
+        "coins": 500,
+        "hints": 30,
+        "extraCells": 3,
+        "featured": true
+      },
+      {
+        "id": "coins.s",
+        "coins": 300
+      },
+      {
+        "id": "coins.m",
+        "coins": 1000
+      },
+      {
+        "id": "coins.l",
+        "coins": 2200
+      },
+      {
+        "id": "coins.xl",
+        "coins": 4000
+      },
+      {
+        "id": "hints.30",
+        "hints": 30
+      },
+      {
+        "id": "noads"
+      }
+    ],
+    "hintPrice": 10,
+    "extraCellPrice": 40,
+    "cosmeticPrices": {
+      "felt-blue": 700,
+      "felt-burgundy": 700,
+      "felt-teal": 900,
+      "felt-graphite": 1100,
+      "felt-plum": 1200,
+      "back-stripes": 600,
+      "back-dots": 600,
+      "back-waves": 800,
+      "back-leaf": 800,
+      "back-gold": 1200
+    }
+  }
+}

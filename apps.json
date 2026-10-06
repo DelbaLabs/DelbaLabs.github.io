@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "underlimit",
+      "name": "UnderLimit: PDF Compressor",
+      "appStoreID": "6813135044",
+      "tagline": {
+        "en": "Shrink PDFs and photos under any upload limit.",
+        "it": "Riduci PDF e foto sotto qualsiasi limite di upload."
+      },
+      "iconURL": null,
+      "live": true
+    },
+    {
+      "id": "sparkfall",
+      "name": "Sparkfall",
+      "appStoreID": "6818789977",
+      "tagline": {
+        "en": "Pop bubbles, build bombs, chain combos.",
+        "it": "Scoppia le bolle, crea bombe, concatena combo."
+      },
+      "iconURL": null,
+      "live": false
+    },
+    {
+      "id": "glowtrace",
+      "name": "Glowtrace: Link Dots Puzzle",
+      "appStoreID": "6818583556",
+      "tagline": {
+        "en": "Link the dots, fill every cell.",
+        "it": "Collega i punti e riempi ogni cella."
+      },
+      "iconURL": null,
+      "live": false
+    },
+    {
+      "id": "celldeck",
+      "name": "Celldeck: FreeCell Solitaire",
+      "appStoreID": "6819624213",
+      "tagline": {
+        "en": "FreeCell where every deal can be won.",
+        "it": "FreeCell in cui ogni mano si può vincere."
+      },
+      "iconURL": null,
+      "live": false
+    }
+  ]
+}
