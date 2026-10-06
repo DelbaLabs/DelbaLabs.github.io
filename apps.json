@@ -2,17 +2,6 @@
   "version": 1,
   "apps": [
     {
-      "id": "underlimit",
-      "name": "UnderLimit: PDF Compressor",
-      "appStoreID": "6813135044",
-      "tagline": {
-        "en": "Shrink PDFs and photos under any upload limit.",
-        "it": "Riduci PDF e foto sotto qualsiasi limite di upload."
-      },
-      "iconURL": null,
-      "live": true
-    },
-    {
       "id": "sparkfall",
       "name": "Sparkfall",
       "appStoreID": "6818789977",
