@@ -5,7 +5,7 @@
     "products": [
       {
         "id": "starter",
-        "coins": 500,
+        "coins": 800,
         "hints": 30,
         "extraCells": 3,
         "featured": true
