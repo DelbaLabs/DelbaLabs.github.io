@@ -9,8 +9,8 @@
         "en": "Pop bubbles, build bombs, chain combos.",
         "it": "Scoppia le bolle, crea bombe, concatena combo."
       },
-      "iconURL": null,
-      "live": false
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/98/d4/1d98d4fd-85f1-0164-2b40-7d5c81974ee4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "live": true
     },
     {
       "id": "glowtrace",
